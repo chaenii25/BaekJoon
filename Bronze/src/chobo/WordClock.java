@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class WordClock {
 
 	public static void main(String[] args) {
-		String[] list = {" o' clcock",
+		String[] list = {" o' clock",
 				"one","two","three","four","five","six","seven",
 				"eight","nine","ten","eleven","twelve","thirteen","fourteen",
 				"quarter ","sixteen","seventeen","eighteen","nineteen",
